@@ -8,3 +8,7 @@ def test_reverse_string():
 def test_is_palindrome():
     assert utils.is_palindrome is not None
 
+
+def test_chunk():
+    assert utils.chunk is not None
+
